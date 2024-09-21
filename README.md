@@ -2,7 +2,7 @@
 
 ## Objective
 
-The focus is on using draw.io to create a logical diagram of a cloud-based SOC environment. I will be creating and configuring six servers in future labs- Elastic/Kibana, Windows (with RDP), Ubuntu (with SSH), a Fleet server, OS Ticket, and a Command and Control (C2) 
+The focus is on using draw.io to create a logical diagram of a cloud-based SOC environment. I will be creating and configuring six servers using Vultr in future labs- Elastic/Kibana, Windows (with RDP), Ubuntu (with SSH), a Fleet server, OS Ticket, and a Command and Control (C2) 
 server. The diagram is built using the Vultr cloud provider, and the environment is set up within a Virtual Private Cloud (VPC).
 The goal is to practice creating logical diagrams that reflect real-world SOC setups. Note that the aesthetic of the diagram isn’t as important as gaining familiarity with the process.
 
